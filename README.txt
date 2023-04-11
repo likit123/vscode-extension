@@ -12,3 +12,10 @@
 - Path Intellisense
 - Prettier - Code formatter
 - ESLint
+- GitHub Repositories (github.com)
+- Go (Go Team at Google)
+- IntelliSense for CSS class names in HTML
+- JavaScript (ES6) code snippets
+- Python (Microsoft)
+- Remote Repositories (Microsoft)
+- Vetur
